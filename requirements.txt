@@ -1,3 +1,4 @@
 requests
 python-dotenv
 pytest
+mysql-connector-python
